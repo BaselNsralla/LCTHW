@@ -32,3 +32,6 @@ int main(int argc, char *argv[]){
   printf("WHich means you sshould care %d%", care_precentage);
   return 0;
  }
+/* A char can be used in arthmetic since its memory value is just an int with a value in range 0 - 255
+--- >  1 byte  
+*/
